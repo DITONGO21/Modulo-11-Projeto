@@ -22,7 +22,3 @@ Este projeto é uma aplicação de linha de comandos (CLI) desenvolvida em Pytho
 ## 🚀 Como Instalar e Executar
 
 Apenas precisas de ter o Python instalado na tua máquina. Não há dependências externas.
-
-1. Clona o repositório:
-```bash
-git clone https://github.com/teu-user/nome-do-repositorio.git
