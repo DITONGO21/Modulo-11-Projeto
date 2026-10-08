@@ -19,6 +19,3 @@ Este projeto é uma aplicação de linha de comandos (CLI) desenvolvida em Pytho
 
 - Python 3 (Forte foco no módulo `abc` para criação de Classes Abstratas)
 
-## 🚀 Como Instalar e Executar
-
-Apenas precisas de ter o Python instalado na tua máquina. Não há dependências externas.
